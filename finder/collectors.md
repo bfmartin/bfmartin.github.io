@@ -220,6 +220,9 @@ Non-newspaper strips featuring Dilbert, Dogbert, and other regular strip charact
 
 <dl>
 
+<dt><span class="striptitle">Wearing Masks</span> <span class="stripdate">2020-04-20</span></dt>
+<dd>A black-and-white <a href="https://twitter.com/ScottAdamsSays/status/1252329907914280961">rough drawing</a> of a closeup of Dilbert, the Boss, and Wally, wearing facial masks. Scott says not having to draw noses saves a ton of time.</dd>
+
 <dt><span class="striptitle">Working at Home</span> <span class="stripdate">2020-03-25</span></dt>
 <dd>Scott announces that Dilbert will soon be working at home (probably because of the Covid19 virus isolation) with a colour <a href="https://twitter.com/ScottAdamsSays/status/1242871384180527104">sketch</a> of Dilbert and Dogbert sitting on a couch with some pillows. Dilbert is holding a cup of coffee, and no dialogue.</dd>
 
